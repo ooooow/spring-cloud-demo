@@ -1,0 +1,4 @@
+
+info:
+  text: ${spring.application.name}-test
+  version: 1.0.1
